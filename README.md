@@ -1,4 +1,6 @@
-<h2 align="center">Greetings fellow human :vulcan_salute:</h2>
+### Greetings fellow human :vulcan_salute:
+
+<h2 align="center"></h2>
 
 <h2 align="center">About Me :pinched_fingers:</h2>
 
