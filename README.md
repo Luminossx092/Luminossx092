@@ -1,5 +1,10 @@
-### Hi there 👋
+### Greetings 👋
+
 <h2 align="center"></h2>
+
+### I'm Hikaru Hayase, full stack web developer. Seeking new opportunities to apply knowledge and contribute to high-quality solutions. Continuously improving technical skills, staying up-to-date with industry trends, and fueled by a passion for PC games 🎮 and anime 🌸.
+
+<h2 align="center">Some Tools I Use</h2>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -19,15 +24,7 @@
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
   
 <p align="center">
-  <a href="https://www.instagram.com/gabrielmlimeira/">
-    <img alt="Gabriel's Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  
-  <a href="https://discord.gg/4nJcN428">
-    <img alt="Gabriel's Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/gaabrielmooreira/">
-    <img alt="Gabriel's LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/hikaru-hayase-2660831a3/">
+    <img alt="Hikaru's Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
