@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<a href="TARGET_LINK">
+    <img alt="ALTERNATIVE_TEXT" src="https://img.shields.io/badge/MESSAGE1-MESSAGE2-lightgrey?color=COLOR&logo=PLATFORM_NAME" />
+</a>
 <!--
 **Luminossx092/Luminossx092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
