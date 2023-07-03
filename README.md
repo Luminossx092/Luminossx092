@@ -1,10 +1,10 @@
-### Greetings 👋 :vulcan_salute:
+### Greetings fellow human :vulcan_salute:
 
-<h2 align="center">About Me </h2>
+<h2 align="center">About Me :pinched_fingers:</h2>
 
-### I'm Hikaru Hayase, full stack web developer. Seeking new opportunities to apply knowledge and contribute to high-quality solutions. Continuously improving technical skills, staying up-to-date with industry trends, and fueled by a passion for PC games 🎮 and anime 🌸.
+### I'm Hikaru Hayase:rice_ball:, full stack web developer:technologist:. Seeking new opportunities to apply knowledge and contribute to high-quality solutions. Continuously improving technical skills, staying up-to-date with industry trends, and fueled by a passion for PC games 🎮 and anime 🌸.
 
-<h2 align="center">Some Tools I Use</h2>
+<h2 align="center">Some Tools I Use :wrench:</h2>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -21,7 +21,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h2 align="center">Contact Me</h2>
+<h2 align="center">Contact Me :telephone_receiver:</h2>
   
 <p align="center">
   <a href="https://www.linkedin.com/in/hikaru-hayase-2660831a3/">
