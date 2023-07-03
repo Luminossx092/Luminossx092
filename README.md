@@ -4,7 +4,7 @@
 
 ### I'm Hikaru Hayase, full stack web developer. Seeking new opportunities to apply knowledge and contribute to high-quality solutions. Continuously improving technical skills, staying up-to-date with industry trends, and fueled by a passion for PC games 🎮 and anime 🌸.
 
-<h2 align="center">Some Tools I Use</h2>
+<h2 align="center" justify-content="space-between">Some Tools I Use</h2>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
