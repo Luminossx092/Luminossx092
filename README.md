@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2 align="center">Technology Stack <img src="https://media3.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47uqmfjgrdip356x97za2ccnkdz6mjuufpsfk220cb&rid=giphy.gif&ct=s" width="50"></h2>
+<h2 align="center"></h2>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
